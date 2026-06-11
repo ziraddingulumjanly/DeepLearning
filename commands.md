@@ -1,5 +1,6 @@
 # GitHub Commands — Simple Workflow
-YOOOOOOOOOOOOOO
+
+[The Only GitHub Guide You’ll Ever Need](https://www.youtube.com/watch?v=pJYOG6klqj8)
 Assume you already created a repository on GitHub.
 
 Example GitHub SSH link:
